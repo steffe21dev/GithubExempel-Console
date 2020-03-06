@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubExempel-Console", "GithubExempel-Console\GithubExempel-Console.csproj", "{476F6FBD-5302-495F-9945-B47C9DA31BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{476F6FBD-5302-495F-9945-B47C9DA31BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476F6FBD-5302-495F-9945-B47C9DA31BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476F6FBD-5302-495F-9945-B47C9DA31BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476F6FBD-5302-495F-9945-B47C9DA31BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7015B148-FA34-40E4-BAC3-3D79D2035952}
+	EndGlobalSection
+EndGlobal
